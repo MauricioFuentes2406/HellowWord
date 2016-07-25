@@ -1,0 +1,9 @@
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\bin\Debug\HelloWordRepositorio.exe.config
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\bin\Debug\HelloWordRepositorio.exe
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\bin\Debug\HelloWordRepositorio.pdb
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\obj\Debug\HelloWordRepositorio.csprojResolveAssemblyReference.cache
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\obj\Debug\HelloWordRepositorio.Form1.resources
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\obj\Debug\HelloWordRepositorio.Properties.Resources.resources
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\obj\Debug\HelloWordRepositorio.csproj.GenerateResource.Cache
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\obj\Debug\HelloWordRepositorio.exe
+E:\Practicas c#\HelloWordRepositorio\HelloWordRepositorio\obj\Debug\HelloWordRepositorio.pdb
